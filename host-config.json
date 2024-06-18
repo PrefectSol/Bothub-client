@@ -1,0 +1,13 @@
+{
+    "hostfile": "hub/SeaBattle/seabattle.py",
+    "game": {
+        "name": "SeaBattle",
+        "delay": 0.1,
+        "iterations": 5
+    },
+    "settings": {
+        "first move": 1
+    },
+    "requirements": "numpy",
+    "host_id": "1"
+}

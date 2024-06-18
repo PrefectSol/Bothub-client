@@ -1,0 +1,13 @@
+{
+    "auth": {
+        "permissions": {
+            "hostManagement": true,
+            "botManagement": true,
+            "databaseView": true
+        },
+        "user_id": "1",
+        "user_secret": "a4aab4655c3b556b77f1dbccccfcf033"
+    },
+    "host": "172.17.0.2",
+    "port": "5000"
+}
