@@ -11,5 +11,6 @@ class ABCBot(ABC):
         pass
 
     @abstractmethod
-    def get_action(self, state: dict) -> dict:
+    def get_action(self, state) -> dict:
         pass
+

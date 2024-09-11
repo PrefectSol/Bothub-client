@@ -57,3 +57,9 @@ make view
 ```bash
 make clear
 ```
+
+## Fast request
+Clear cache, auth as new, create new host, post bot, post bot
+```bash
+make fast-request
+```

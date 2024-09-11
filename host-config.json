@@ -2,7 +2,7 @@
     "hostfile": "hub/SeaBattle/seabattle.py",
     "game": {
         "name": "SeaBattle",
-        "delay": 0.1,
+        "delay": 0,
         "iterations": 5
     },
     "settings": {

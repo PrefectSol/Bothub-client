@@ -19,5 +19,12 @@ deauth:
 clear:
 	@python scripts/clear.py
 
+fast-request:
+	@make clear
+	@make auth
+	@make hcreate
+	@make post
+	@make post
+
 %:
 	@:
